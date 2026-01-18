@@ -1,4 +1,4 @@
-# Omadbek-Kozimjonov-
+# Omadbek-Kozimjonov
 <!DOCTYPE html>
 <html>
 <head>
